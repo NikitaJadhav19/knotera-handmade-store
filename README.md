@@ -59,7 +59,6 @@ knotera/
 ├── my_orders.php
 ├── demo_payment.php
 ├── payment_success.php
-│
 ├── add_to_cart.php
 ├── update_cart.php
 ├── remove_from_cart.php
